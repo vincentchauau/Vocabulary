@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vocabulary", "Vocabulary.csproj", "{0386CD85-4A3D-4F00-8CF1-E0825A888300}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0386CD85-4A3D-4F00-8CF1-E0825A888300}.Debug|x86.ActiveCfg = Debug|x86
+		{0386CD85-4A3D-4F00-8CF1-E0825A888300}.Debug|x86.Build.0 = Debug|x86
+		{0386CD85-4A3D-4F00-8CF1-E0825A888300}.Release|x86.ActiveCfg = Release|x86
+		{0386CD85-4A3D-4F00-8CF1-E0825A888300}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

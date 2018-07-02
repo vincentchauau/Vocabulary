@@ -1,0 +1,7 @@
+D:\Project\C#\Vocabulary\bin\Debug\Language.exe
+D:\Project\C#\Vocabulary\bin\Debug\Language.pdb
+D:\Project\C#\Vocabulary\obj\x86\Debug\MultiChoice.fMain.resources
+D:\Project\C#\Vocabulary\obj\x86\Debug\Language.Properties.Resources.resources
+D:\Project\C#\Vocabulary\obj\x86\Debug\Vocabulary.csproj.GenerateResource.Cache
+D:\Project\C#\Vocabulary\obj\x86\Debug\Language.exe
+D:\Project\C#\Vocabulary\obj\x86\Debug\Language.pdb
